@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed Mallick</h1>
-<h3 align="center">Project Manager/Scrum Master from India. Also, enjoying coding.....</h3>
+<h3 align="center">Project Manager/Scrum Master and also enjoying coding from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zee-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="zee-mallick" /> </p>
 
